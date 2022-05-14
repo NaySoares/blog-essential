@@ -4,7 +4,7 @@ import { RichText } from "prismic-dom";
 
 import { Article } from '../../components/Article/Article';
 import ArticleLayout from '../../components/Layout/Article';
-import { getPrismicClient } from "../../services/prismic";
+import { getPrismicClient } from "../../services/Prismic";
 
 
 const ThinkingPage = ({ posts }) => {
