@@ -9,9 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.0.0",
+    "@chakra-ui/react": "^2.0.0",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@prismicio/client": "^5.1.0",
+    "framer-motion": "^6.3.3",
     "next": "12.1.6",
+    "prismic-dom": "^2.2.7",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "sass": "^1.51.0"
   },
   "devDependencies": {
     "eslint": "8.15.0",
